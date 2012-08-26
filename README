@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4193
+
+Contains general utility functions (functions.vim) and two data structures: a set (like a built-in List, except that its contents are unique) and a MultiDictionary (allows the addition of multiple Dictionary objects and retrieval and key/value iterations across all the collections as if they were one).
